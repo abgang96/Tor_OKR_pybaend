@@ -87,9 +87,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'OKr-TOR',
         'USER': 'postgres',
-        'PASSWORD': 'msc1234567',
-        'HOST': '127.0.0.1',
-        'PORT': '5432',
+        'PASSWORD': '2CaXH4ge792401',
+        'HOST': 'kdevdb.centralindia.cloudapp.azure.com',
+        'PORT': '58217',
     }
 }
 
